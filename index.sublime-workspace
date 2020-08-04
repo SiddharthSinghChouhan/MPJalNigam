@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"pu",
+				"push"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"typescript",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package installed",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"cd MyProject1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/siddharth/Downloads/index.html",
+		"/home/siddharth/PhpProjects/nagarnigam/ankit bhai/config.php",
+		"/home/siddharth/PhpProjects/userreg/login.php",
+		"/home/siddharth/.config/sublime-text-3/Packages/User/runHTML.sublime-build",
+		"/home/siddharth/PhpProjects/yash-master/UserLogin.php",
+		"/home/siddharth/PhpProjects/yash-master/Addinfo.html",
+		"/home/siddharth/PhpProjects/yash-master/Addinfo.php",
+		"/home/siddharth/PhpProjects/yash-master/admin.html",
+		"/home/siddharth/PhpProjects/yash-master/AdminLogin.php",
+		"/home/siddharth/PhpProjects/yash-master/config.php",
+		"/home/siddharth/PhpProjects/yash-master/dashboard.html",
+		"/home/siddharth/PhpProjects/yash-master/delete.html",
+		"/home/siddharth/PhpProjects/yash-master/index.html",
+		"/home/siddharth/PhpProjects/yash-master/update.html",
+		"/home/siddharth/PhpProjects/yash-master/user.html",
+		"/home/siddharth/PhpProjects/yash-master/tendorphp-firebase-adminsdk-2ucqa-af6f73889b.json",
+		"/home/siddharth/PhpProjects/yash-master/storing_data.php",
+		"/home/siddharth/PhpProjects/yash-master/db.php",
+		"/home/siddharth/Downloads/storing_data(25).php",
+		"/home/siddharth/Downloads/composer.phar",
+		"/home/siddharth/PhpProjects/yash-master/composer.phar",
+		"/home/siddharth/Downloads/storing_data(24).php",
+		"/home/siddharth/javapro/Prime.java",
+		"/home/siddharth/javapro/Test.java",
+		"/home/siddharth/javapro/Counting.java",
+		"/home/siddharth/javapro/j1.java",
+		"/home/siddharth/java pro/j1.java",
+		"/home/siddharth/MyProject1/app.json",
+		"/home/siddharth/MyProject1/App.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/runHTML.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
